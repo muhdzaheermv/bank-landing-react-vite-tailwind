@@ -6,7 +6,7 @@ A sleek, modern, and fully responsive **Bank Landing Page** created using **Reac
 
 ## 🚀 Live Demo
 
-👉 [Live App](https://bank-landing-page-url.vercel.app/) <!-- Replace with actual link if different -->
+👉 [Live App](https://muhdzaheermv.github.io/bank-landing-react-vite-tailwind/)
 
 ## 🛠️ Tech Stack
 
